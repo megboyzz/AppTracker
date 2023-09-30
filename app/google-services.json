@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "274941464211",
+    "project_id": "apptracker-23671",
+    "storage_bucket": "apptracker-23671.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274941464211:android:5c8c7f83578e7b0f020766",
+        "android_client_info": {
+          "package_name": "ru.app.track"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnSDQUKohvWXL3azHfx2iaK9fgPKCcg9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
